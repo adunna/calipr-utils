@@ -8,11 +8,13 @@ A utility collection, consisting of R plotting code, libraries and themes, usefu
 - [ ] Add acknowledgements to readme
 - [ ] Global specifications for file names and formats, make contributions easier
 - [ ] R theme code for lab
+- [ ] R plotting code templates
+- [ ] Various R tricks
 - [ ] R package installation script
 - [ ] Python useful library installation script
 - [ ] Create either Python scripts collection, or Python package with collection of scripts
 - [ ] Custom LaTeX command file
-- [ ] Base dataset obtain script, to be extended for more datasets
+- [ ] Base dataset obtain script, to be extended for more datasets (scrapers)
 - [ ] Create list of useful libraries
 
 ## Getting Started
