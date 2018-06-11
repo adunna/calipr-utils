@@ -16,4 +16,14 @@ Or, to specify a repository:
 
 ## Themes
 
-`Calipr`: The (un)official Calipr Lab ggplot2 theme.
+`calipr`: The (un)official Calipr Lab ggplot2 theme.
+
+## Usage
+
+Include the selected theme file at the top of your R script, underneath the necessary includes specified above, with the `source` command, like so:
+
+`source("calipr.r")`
+
+Then, apply the theme, which will be a function named by `theme_name()`, for example `theme_calipr()`, in the following format:
+
+`theme_calipr(plot)`
