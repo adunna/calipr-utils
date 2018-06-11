@@ -14,9 +14,11 @@ Or, to specify a repository:
 
 `install.packages(c('ggplot2', 'ggthemes', 'RColorBrewer'), repos = c(CRAN = "http://cran.rstudio.com"))`
 
-## Themes
+## Themes / Examples
 
 `calipr`: The (un)official Calipr Lab ggplot2 theme.
+
+![](examples/calipr_1.png)
 
 ## Usage
 
