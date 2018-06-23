@@ -23,13 +23,13 @@ Clone the repository, which by default will have available R code and LaTeX code
 
 ### Prerequisites
 
-Python 3, LaTeX, and R.
+Python 3 (and pip), LaTeX, and R.
 
 ### Installing
 
 `git clone https://github.com/adunna/calipr-utils.git`
 
-More installation steps: TODO.
+To install various pip packages, use the included `pip-packages.sh` script with root privileges, as `sudo ./pip-packages.sh`.
 
 ## Contributing
 
@@ -37,7 +37,7 @@ If you have something useful to add to the repository, please contact [@adunna](
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
