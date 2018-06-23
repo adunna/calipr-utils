@@ -19,6 +19,7 @@ Or, to specify a repository:
 `calipr`: The (un)official Calipr Lab ggplot2 theme.
 
 ![](examples/calipr_1.png)
+![](examples/calipr_2.png)
 
 ## Usage
 
