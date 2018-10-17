@@ -6,14 +6,14 @@ Please see the Wiki for further documentation.
 
 ## Upcoming Changes
 
-- [ ] Add installation section to readme
+- [x] Add installation section to readme
 - [ ] Add acknowledgements to readme
 - [ ] Global specifications for file names and formats, make contributions easier
-- [ ] R theme code for lab
+- [x] R theme code for lab
 - [ ] R plotting code templates
 - [ ] Various R tricks
-- [ ] R package installation script
-- [ ] Python useful library installation script
+- [x] R package installation script
+- [x] Python useful library installation script
 - [ ] Create either Python scripts collection, or Python package with collection of scripts
 - [ ] Custom LaTeX command file
 - [ ] Base dataset obtain script, to be extended for more datasets (scrapers)
@@ -21,7 +21,7 @@ Please see the Wiki for further documentation.
 
 ## Getting Started
 
-Clone the repository, which by default will have available R code and LaTeX code. There will be some scrips you can run to obtain datasets as well, and installation scrips for useful R and Python packages.
+Clone the repository, which by default will have available R code and LaTeX code. There will be some scripts you can run to obtain datasets as well, and installation scrips for useful R and Python packages.
 
 ### Prerequisites
 

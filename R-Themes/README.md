@@ -34,4 +34,10 @@ source("calipr.r")
 
 Then, apply the theme, which will be a function named by `theme_name()`, for example `theme_calipr()`, in the following format:
 
-`theme_calipr(plot)`
+`theme_calipr(plot)`  
+
+You can also apply theme colors through this function by passing in extra arguments:  
+
+`theme_calipr(plot, fc="color", dtype="qual")`   
+
+in which `fc` is the type of color, either "fill" or "color", and `dtype` is the data type, either "qual", "seq", or "div", standing for qualitative (categorical), sequential (gradient), and diverging (emphasizes values at extremes), respectively.
