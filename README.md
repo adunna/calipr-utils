@@ -1,6 +1,8 @@
 # calipr-utils
 
-A utility collection, consisting of R plotting code, libraries and themes, useful LaTeX commands, obtainable datasets, and various programs used in research.
+A utility collection, consisting of R plotting code, libraries and themes, useful LaTeX commands, obtainable datasets, and various programs used in research.  
+
+Please see the Wiki for further documentation.
 
 ## Upcoming Changes
 
@@ -41,4 +43,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-TODO
+ - ColorBrewer (Cynthia Brewer and Mark Harrower) for friendly color palettes.
