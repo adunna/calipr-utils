@@ -1,6 +1,6 @@
 # Preview
 
-![Color Palette Preview](colors.png)
+![Color Palette Preview](colors/colors.png)
 
 # Presentations & Documents
 
