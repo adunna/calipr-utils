@@ -49,3 +49,4 @@ The following packages are categorized based off of purpose and then sorted into
 ### Networking
 
  - **cymruservices:** A toolkit for querying 'Team Cymru' <http://team-cymru.org> 'IP' address, Autonomous System Number ('ASN'), Border Gateway Protocol ('BGP'), Bogon and 'Malware' Hash Data Services.
+ - **iptools:** A toolkit for manipulating, validating and testing 'IP' addresses and ranges, along with datasets relating to 'IP' addresses. Tools are also provided to map 'IPv4' blocks to country codes. While it primarily has support for the 'IPv4' address space, more extensive 'IPv6' support is intended.

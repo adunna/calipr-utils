@@ -16,7 +16,8 @@ package_list <- c(
     "rworldxtra",
     "cymruservices",
     "countrycode",
-    "ISOcodes"
+    "ISOcodes",
+    "iptools"
 )
 
 already_installed <- installed.packages()

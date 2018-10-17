@@ -1,0 +1,13 @@
+# Py-Snips
+
+This contains a variety of useful Python code snippets, categorized by general snippet purpose. It is recommended to cut and paste the necessary code portions rather than using includes (source), as this can mess with package imports.  
+
+# Format
+
+Each snippet is categorized into its proper directory. Within these directories, each snippet will be named briefly according to the required Python version (2 or 3) and the snippet's purpose. Each snippet will also feature a snippet header, describing the name, version requirement, author, purpose, last modification date (MM/DD/YYYY), and any other system requirements. See `py3-snip-sample.py` for an example.  
+
+Each snippet may assume you have the necessary libraries installed. Any required packages should be included at the top of the snippet, underneath the header, for easy location and installation of required packages.
+
+## Networking
+
+ - **example.py:** TODO

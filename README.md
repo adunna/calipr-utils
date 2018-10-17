@@ -7,7 +7,7 @@ Please see the Wiki for further documentation.
 ## Upcoming Changes
 
 - [x] Add installation section to readme
-- [ ] Add acknowledgements to readme
+- [x] Add acknowledgements to readme
 - [ ] Global specifications for file names and formats, make contributions easier
 - [x] R theme code for lab
 - [ ] R plotting code templates
