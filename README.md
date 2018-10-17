@@ -31,7 +31,7 @@ Python 3 (and pip), LaTeX, and R.
 
 `git clone https://github.com/adunna/calipr-utils.git`
 
-To install various pip packages, use the included `pip-packages.sh` script with root privileges, as `sudo ./pip-packages.sh`.
+To install various pip packages (Python 3, assuming pip3 is installed), use the included `pip-packages.sh` script with root privileges, as `sudo ./pip-packages.sh`.
 
 ## Contributing
 
