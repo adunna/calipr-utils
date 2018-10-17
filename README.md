@@ -8,15 +8,16 @@ Please see the Wiki for further documentation.
 
 - [x] Add installation section to readme
 - [x] Add acknowledgements to readme
-- [ ] Global specifications for file names and formats, make contributions easier
+- [x] Global specifications for file names and formats, make contributions easier
 - [x] R theme code for lab
 - [ ] R plotting code templates
 - [ ] Various R tricks
 - [x] R package installation script
 - [x] Python useful library installation script
-- [ ] Create either Python scripts collection, or Python package with collection of scripts
+- [x] Create either Python scripts collection, or Python package with collection of scripts
 - [ ] Custom LaTeX command file
 - [ ] Base dataset obtain script, to be extended for more datasets (scrapers)
+- [ ] Write API for obtaining datasets (historical/current, ex. which ASN for given IP in given year)
 - [ ] Create list of useful libraries
 
 ## Getting Started
@@ -35,7 +36,14 @@ To install various pip packages (Python 3, assuming pip3 is installed), use the 
 
 ## Contributing
 
-If you have something useful to add to the repository, please contact [@adunna](https://github.com/adunna/).
+If you have something useful to add to the repository, please contact [@adunna](https://github.com/adunna/) or submit a PR. Formats are given along with examples for each type of contribution. Easy contributions are:  
+
+ - **Py-Snips:** Python code snippets.
+ - **R-Snips:** R code snippets.
+ - **R-Themes:** R plotting themes.
+ - **R-Packages:** Useful R packages.
+
+If you have any Python packages you'd like to add, or any useful libraries/resources such as citation managers, please contact [@adunna](https://github.com/adunna/).
 
 ## License
 
